@@ -8,7 +8,8 @@ namespace Konzolna_proba
 {
     class PrvaKlasa
     {
-        public static void ProbajMe() { Console.WriteLine("Probao si klasu 1"); }
+        public static void ProbajMe() { Console.WriteLine("Izmenio si klasu 1, Ovo sam Dodao"); }
+        public static void JosJedan() { Console.Write("amongus"); }
         
     }
 }
